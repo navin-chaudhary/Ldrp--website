@@ -219,7 +219,7 @@ body {
 }
 @media only screen and (max-width:370px){
     .container3 img{
-        height: 50px;
+        height: 150px;
     }
     .navbar-container #left img{
         width: 60vw;
